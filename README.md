@@ -60,6 +60,11 @@ Basic Structure of an HTML Document
 
             <body>                   Contains visible content on the web page.
 
+            <h1>                     Largest heading, used for main titles.
+
+            <p>                      Paragraph element
+            
+
             
 
             
