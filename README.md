@@ -3,52 +3,52 @@
 Introduction to HTML
 
 What is HTML?
+
 HTML (Hyper text markup language) is the standard language used to create web  pages.
- HTML is Not a programming language, just a markup language. HTML Uses tags (like, <p>, <h1>, <img>) to define elements.
+ HTML is Not a programming language, just a markup language. HTML Uses tags (like, <p>, <h>, etc.)
+
+ what does HTML do?
+
+ Creates the structure of a web page.
+
+ Orgnizes content using elements like headinds, paragraphs, images, and links.
+
+ Acts as the skeleton of web page.
+
+ It works along with CSS (for styling) and Javascript(for functionality).
+
+ How Does a Browser Render HTML?
+
+ 1. Browser lads the .html file
+
+ 2. It reads the HTML line by line from top to bottom .
+
+ 3. Builds a DOM (Document Object Model) in memory/
+
+ 4. Converts HTML tags into visual elements on the screen.
+
+ 5. Processes linked CSS for styling and javaScript for functionality.
+
+Example;
+When the browser sees <h1>Hello</h1>, it renders Hello as a big heading.
+
+Basic Structure of an HTML Document
+
+                     <!DOCTYPE html>
+                     <html>
+                     <head>
+                      <title> My First Web page</title>
+                     </head>
+                     <body>
+                     <h1>Welcome to My Website</h1>
+                     <p>This is a sample pragraph.</p>
+                     </body>
+                     </html>
+              
+
+
+
  
- What Does HTML Do?
-
-HTML is used to:
-
-Show text, images, videos, links, and buttons on a web page.
-Create structure of the page like headings, paragraphs, and lists.
-Add forms (like login, search box, etc.).
-
-How browser renders HTML:
-
-Rendering means how the browser reads HTML and displays it as a web page on your screen. 
-
-1.The browser sends a request to the server and gets the HTML code of that page.
-
-2. Browser Reads HTML Line by Line
-
-The browser reads the HTML code from top to bottom.
-
-It sees tags like <html>, <head>, <body>, <h1>, <p>, etc.
-
-3. Builds the Structure (DOM Tree)
-
-4. CSS (Styles)
-
-5. Runs JavaScript .
-
-
-Structure of an HTML Document
-
-<!DOCTYPE> declaration defines that this document is an HTML5 document
-
-<html> element is the root element of an HTML page
-
- <head> element contains meta information about the HTML page
-
-<title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
-
- <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-
- <h1> element defines a large heading
-
-  <p> element defines a paragraph
-
 
 
 
