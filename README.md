@@ -5,7 +5,7 @@ Introduction to HTML
 What is HTML?
 
 HTML (Hyper text markup language) is the standard language used to create web  pages.
- HTML is Not a programming language, just a markup language. HTML Uses tags (like, <p>, <h>, etc.)
+ HTML is Not a programming language, just a markup language. HTML Uses tags (like,<p>, <h>, etc.)
 
  what does HTML do?
 
@@ -30,6 +30,7 @@ HTML (Hyper text markup language) is the standard language used to create web  p
  5. Processes linked CSS for styling and javaScript for functionality.
 
 Example;
+
 When the browser sees <h1>Hello</h1>, it renders Hello as a big heading.
 
 Basic Structure of an HTML Document
@@ -46,6 +47,22 @@ Basic Structure of an HTML Document
                      </html>
                      
    ![screenshot-html](https://github.com/user-attachments/assets/600244f4-ce10-462f-bee4-3a109b283679)
+
+   Explanation of Each part
+
+             Part                      Description
+
+            <!DOCTYPE html>            Declare the HTML version(HTML5)
+
+            <html>                     Root of  the document.All content goes here.
+
+            <head>                    Meta information(title, links, charset).
+
+            <body>                   Contains visible content on the web page.
+
+            
+
+            
 
 
      
