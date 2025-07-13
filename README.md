@@ -126,9 +126,11 @@ Basic Structure of an HTML Document
                      <img src="image.jpg" alt="Description of image">
 
 What is the Web?
+
 The World Wide Web (WWW) is a system of interlinked documents accessed via the internet using a browser (like Chrome, Firefox, or Safari). These documents are written in a language called HTML.
 
 Components of the Web:
+
 Browser – Software like Chrome that displays web pages.
 
 Web Page – A document on the web, written in HTML.
