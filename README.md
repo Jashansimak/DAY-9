@@ -63,6 +63,90 @@ Basic Structure of an HTML Document
             <h1>                     Largest heading, used for main titles.
 
             <p>                      Paragraph element
+
+
+
+  DAY 10
+
+  Introduction to HTML abd Web Basics:
+
+  What is HTML?
+
+  HTML(Hyper Text Markup Language) is the standard language used to create web pages. It structure content using tags that the browser can interpret.
+
+  Comman HTML tags:
+
+1. Headings: Headings help organize content by importance . HTML has 6 level of headings:
+
+<h1> is the largest and most important;
+<h6>  is the smallest
+
+            <h1>This is Heading 1</h1>
+            <h2>This is Heading 2</h2>
+            <h3>This is Heading 3</h3>
+            <h4>This is Heading 4</h4>
+            <h5>This is Heading 5</h5>
+             <h6>This is Heading 6</h6>
+
+
+2.  Paragraph: Used to define text paragraphs.
+
+                <p>This is my first paragraph!</p>
+
+3. Lists:
+
+    Unordered list(<ul>): Use bullet points.
+
+         HTML
+
+           <ul>
+              <li>Item 1</li>
+              <li>Item 2</li>
+           <ul/>
+
+   Ordered List(<ol>) Uses Numbers.
+
+               HTML
+
+                <ol>
+                  <li>First Item</li>
+                  <li>Second Item</li>
+               <ol/>
+
+4. Links(<a>)
+
+   Used to Create hyperlink to other pages or sites.
+
+             HTML
+
+              <a href="https://www.example.com">Visit Example</a>
+
+   5. Images(<img>): Used to display images . Must include the src (source) and alt (alternative text) attributes.
+  
+                     <img src="image.jpg" alt="Description of image">
+
+What is the Web?
+The World Wide Web (WWW) is a system of interlinked documents accessed via the internet using a browser (like Chrome, Firefox, or Safari). These documents are written in a language called HTML.
+
+Components of the Web:
+Browser – Software like Chrome that displays web pages.
+
+Web Page – A document on the web, written in HTML.
+
+Web Server – A computer that stores web pages and serves them on request.
+
+URL (Uniform Resource Locator) – The address used to access a web page (e.g., https://www.example.com).
+
+
+   
+  
+   
+              
+    
+
+
+   
+          
             
 
             
